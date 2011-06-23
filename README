@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3639
+
+Using subversion command status in vim.
+
+Command: 
+    \st subversion status from current directory.
+
+Sample:
+    :e source_code.c
+    :lcd %:p:h
+    \st
+
+
